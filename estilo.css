@@ -1,0 +1,23 @@
+.caja{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+}
+.subcaja{
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+}
+.subcaja2{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.subcaja3{
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+}
+body {
+    background-color: lightblue;
+  }
